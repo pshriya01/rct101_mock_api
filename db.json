@@ -1,0 +1,180 @@
+{
+    "courses":[
+         {
+            "id": 1,
+            "courseName":"Painting",
+            "image":"https://previews.123rf.com/images/poznyakov/poznyakov1707/poznyakov170700325/82338573-children-painting-brush-on-easel-kids-girl-learn-paint-alone-at-home-child-picture-on-background.jpg",  
+            "about":"A comprehensive course designed for kids wanting to learn the core concepts of painting.",
+            "price": 499,
+            "category":"Art",
+            "Age":"2-8 years",
+            "courseDuration":"6 months",
+            "Schedule":"1 hour session",
+            "TagLine":"Unleash your inner artist make your world colorful!"
+            
+        },
+        {
+            "id": 2,
+            "courseName":"Bollywood Dance course",
+            "image":"https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/dance-class-kids-cover.jpg",  
+            "about":"Students will learn unique choreographies and will be exposed to the concepts of expressions, rythm, beats, and mood through a variety of popular movie songs.",
+            "price": 999,
+            "category":"Dance",
+            "Age":"5-11 years",
+            "courseDuration":"6 months",
+            "Schedule":"1 hour session",
+            "TagLine":"Learn to dance like a star on the Latest Bollywood Hits!"
+            
+        },
+        {
+            "id": 3,
+            "courseName":"Keyboard and Piano course",
+            "image":"https://vikalpindia.com/wp-content/uploads/2023/01/Online-Piano-Lessons.jpeg",  
+            "about":"These online keyboard classes have been crafted by expert instrumentalists to help your little one start their music journey with piano/keyboard! ",
+            "price": 999,
+            "category":"Music",
+            "Age":"5-11 years",
+            "courseDuration":"12 months",
+            "Schedule":"1 hour session",
+            "TagLine":"Enter the world of Music and play magical tunes on Piano!"
+            
+        },
+        {
+            "id": 4,
+            "courseName":"Basic English Speaking",
+            "image":"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/13791594/2022/2/14/5ea707f4-8491-4d1c-b520-86a1cff4c86e1644841891629-Anouk-Women-Yellow--White-Printed-Kurta-with-Palazzos-706164-1.jpg",  
+            "about":"By the end of the course students will build up a foundation for leaning English,learn over 200 most commonly used words and expressions and be able to speak about their family, pets, likes and dislikes.",
+            "price": 499,
+            "category":"Academic",
+            "Age":"3-8 years",
+            "courseDuration":"3 months",
+            "Schedule":"1 hour session",
+            "TagLine":"Bring Brilliance in Speech and Strengthen your core!"
+            
+        },
+        {
+            "id": 5,
+            "courseName":"Pottery",
+            "image":"https://www.artnews.com/wp-content/uploads/2022/04/AdobeStock_482221708.jpeg?w=1800",  
+            "about":"Pottery is a fun and educational activity ideal for kids,through this course you can teach children how to follow directions as well as to be creative and express themselves.",
+            "price": 999,
+            "category":"Art",
+            "Age":"5-11 years",
+            "courseDuration":"6 months",
+            "Schedule":"1 hour session",
+            "TagLine":"Mould your ideas with passion and love!"
+            
+        },
+        {
+            "id": 6,
+            "courseName":"Basic Drum Course",
+            "image":"https://static1.squarespace.com/static/55524b6ce4b02fc9d3e73f42/555250e2e4b0471a840de7d0/5c8802b8ec212dacd8d91430/1678309542924/stock-29.jpg?format=1500w",  
+            "about":"A comprehensive course designed for kids wanting to learn the skills and technique of drumming.",
+            "price": 999,
+            "category":"Music",
+            "Age":"3-8 years",
+            "courseDuration":"3 months",
+            "Schedule":"1 hour session",
+            "TagLine":"Start drumming and make some noise!"
+            
+        },
+        {
+            "id": 7,
+            "courseName":"Vedic Maths",
+            "image":"https://maxmindindia.com/wp-content/uploads/2020/08/gallery-3-1-800x650.jpg",  
+            "about":"Through this course kids will learn the brain friendly mental math techniques about basic mathematical operation like addition and subtraction.",
+            "price": 499,
+            "category":"Academic",
+            "Age":"5-11 years",
+            "courseDuration":"3 months",
+            "Schedule":"1 hour session",
+            "TagLine":"Unlock the secrets of numbers and be one step ahead always!"
+            
+        },
+        {
+            "id": 8,
+            "courseName":"Paper Craft and Clay Modelling",
+            "image":"https://3.bp.blogspot.com/-mprZGiGcqGs/XjtTaTpI3eI/AAAAAAAAMIk/HLHQ8iCOZ-QsoXIFbt4HP2piha-OfgtLACLcBGAsYHQ/s320/Paper-Crafts-for-Kids.jpg?imgmax=1024",  
+            "about":"This course gives kids exposure to different paper arts like origami,recycled paper art and clay modelling",
+            "price": 999,
+            "category":"Art",
+            "Age":"3-8 years",
+            "courseDuration":"3 months",
+            "Schedule":"1 hour session",
+            "TagLine":"Discovering beauty in the handmade!"
+            
+        },
+        {
+            "id": 9,
+            "courseName":"Indian Classical Dance",
+            "image":"https://www.pepplay.in/wp-content/uploads/2022/02/bharathanatyam-begginers-dr-pooja-vijayan-primary-image-tphbCZpEhXSQMpbI.jpg-1024x683.jpg",  
+            "about":"A comprehensive course designed for kids wanting to learn the technicalities and intricacies of classical dance form BharatNatyam.",
+            "price": 999,
+            "category":"Dance",
+            "Age":"5-11 years",
+            "courseDuration":"12 months",
+            "Schedule":"1 hour session",
+            "TagLine":"Express yourself without speaking!"
+            
+        }
+
+    ],
+    "Teachers":[
+        {   "id":1,
+            "name":"Chitra Vaidya",
+            "avatar":"https://www.indiaart.com/images/artists/chitra-vaidya.jpg",
+            "course":"Painting",
+            "description":"10+ years of experience in the field"
+        },
+        {   "id":2,
+            "name":"Vinay Sane",
+            "avatar":"https://www.indiaart.com/images/artists/vinay-sane.webp",
+            "course":"Painting",
+            "description":"12+ years of experience in the field"
+        },
+        {    
+            "id":3,
+            "name":"Savitha Sastry",
+            "avatar":"https://blog-content.ixigo.com/wp-content/uploads/2013/07/SavithaTrad6.jpg",
+            "course":"Dancing",
+            "description":"18+ years of experience in the field"
+        },
+        {    
+            "id":4,
+            "name":"Terrence Lewis",
+            "avatar":"https://d1vzdswwroofzl.cloudfront.net/wp-content/uploads/2022/03/7-Terrence-Lewis.jpg",
+            "course":"Dancing",
+            "description":"18+ years of experience in the field"
+        },
+        {   
+            "id":5,
+            "name":"Satyam Dubey",
+            "avatar":"https://userphotos2.teacheron.com/1211823-76736.jpg",
+            "course":"Piano",
+            "description":"5+ years of experience in the field"
+        },
+        {   
+            "id":6,
+            "name":"Shashini Alwis",
+            "avatar":"https://userphotos2.teacheron.com/1790405-30118.jpg",
+            "course":"English",
+            "description":"5+ years of experience in the field"
+        },
+        {
+            "id":7,
+            "name":"Amiya Biswal",
+            "avatar":"https://userphotos2.teacheron.com/1790325-78859.jpeg",
+            "course":"vedic Maths",
+            "description":"5+ years of experience in the field"
+        },
+        {
+            "id":8,
+            "name":"Osheen sharma",
+            "avatar":"https://userphotos2.teacheron.com/1753648-51184.jpg",
+            "course":"Pottery",
+            "description":"7+ years of experience in the field"
+        }
+        
+    ]
+    
+}

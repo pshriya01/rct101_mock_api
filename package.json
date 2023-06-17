@@ -1,0 +1,24 @@
+{
+  "name": "mock_api",
+  "version": "1.0.0",
+  "description": "mock_api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pshriya01/mock_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pshriya01/mock_api/issues"
+  },
+  "homepage": "https://github.com/pshriya01/mock_api#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
