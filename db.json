@@ -175,6 +175,14 @@
             "description":"7+ years of experience in the field"
         }
         
+    ],
+    "user":[
+        {
+            "name": "ABC",
+            "email": "email@gmail.com",
+            "password": "123",
+            "id": 1
+          }
     ]
     
 }
